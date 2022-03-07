@@ -1,0 +1,27 @@
+                                   
+Name:                           CP4S_Cluster_901   
+ID:                             c8f7qrqw0q57ijnauupg   
+State:                          normal   
+Status:                         All Workers Normal   
+Created:                        2022-03-01 13:09:19 -0700 (5 days ago)   
+Resource Group ID:              aa087da7593d4357aa263c117be3c8c0   
+Resource Group Name:            security-tech-sales   
+Pod Subnet:                     172.17.128.0/18   
+Service Subnet:                 172.21.0.0/16   
+Workers:                        6   
+Worker Zones:                   us-east-1, us-east-2, us-east-3   
+Ingress Subdomain:              cp4scluster901-69cc67d15c4d07e183e469448ee65048-0000.us-east.containers.appdomain.cloud   
+Ingress Secret:                 cp4scluster901-69cc67d15c4d07e183e469448ee65048-0000   
+Ingress Status:                 healthy   
+Ingress Message:                All Ingress components are healthy   
+Public Service Endpoint URL:    https://c100-e.us-east.containers.cloud.ibm.com:31935   
+Private Service Endpoint URL:   https://c100.private.us-east.containers.cloud.ibm.com:31935   
+Pull Secrets:                   enabled in the default namespace   
+VPCs:                           r014-10444ea9-7b8a-4800-b4d9-21c801de4237   
+               
+Status:     Ready (3 days ago)   
+State:      deployed   
+Health:     normal   
+Version:    4.8.31_1546_openshift   
+Location:   Washington D.C.   
+URL:        https://c100-e.us-east.containers.cloud.ibm.com:31935   
